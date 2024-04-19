@@ -18,24 +18,33 @@ const HomeRecipe = () => {
                                     </div>
                                     <div class="carousel-inner">
                                         <div class="carousel-item active">
-                                            <img src="https://images.unsplash.com/photo-1601050690597-df0568f70950?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
+                                            <img src="https://images.unsplash.com/photo-1612472844581-dd9310a6bad1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
                                             <div class="carousel-caption d-none d-md-block">
-                                                <h5>Easy Recipes</h5>
-                                                <p>Hungry? Then try our easy-peasy lemon squeezy recipes.</p>
+                                                <h5>Strawberry Recipes</h5>
+                                                <p>My Love for strawberries is immaculate and i have showered my heart into making my strawberry cook book. 
+                                                    <br />
+                                                    Find your easy-peasy strawberry recipes here.
+                                                </p>
                                             </div>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?q=80&w=1917&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
+                                            <img src="https://images.unsplash.com/photo-1499889808931-317a0255c0e9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
                                             <div class="carousel-caption d-none d-md-block">
-                                                <h5>Easy Recipes</h5>
-                                                <p>Hungry? Then try our easy-peasy lemon squeezy recipes.</p>
+                                            <h5>Strawberry Recipes</h5>
+                                                <p>My Love for strawberries is immaculate and i have showered my heart into making my strawberry cook book. 
+                                                    <br />
+                                                    Find your easy-peasy strawberry recipes here.
+                                                </p>
                                             </div>
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="https://images.unsplash.com/photo-1542367592-8849eb950fd8?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
+                                            <img src="https://plus.unsplash.com/premium_photo-1691787288744-d586fffa3550?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
                                             <div class="carousel-caption d-none d-md-block">
-                                                <h5>Easy Recipes</h5>
-                                                <p>Hungry? Then try our easy-peasy lemon squeezy recipes.</p>
+                                            <h5>Strawberry Recipes</h5>
+                                                <p>My Love for strawberries is immaculate and i have showered my heart into making my strawberry cook book. 
+                                                    <br />
+                                                    Find your easy-peasy strawberry recipes here.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
