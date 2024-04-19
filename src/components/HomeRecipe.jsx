@@ -21,7 +21,7 @@ const HomeRecipe = () => {
                                             <img src="https://images.unsplash.com/photo-1612472844581-dd9310a6bad1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
                                             <div class="carousel-caption d-none d-md-block">
                                                 <h5>Strawberry Recipes</h5>
-                                                <p>My Love for strawberries is immaculate and i have showered my heart into making my strawberry cook book. 
+                                                <p>My Love for strawberries is immaculate and i have poured my heart into making my strawberry cook book. 
                                                     <br />
                                                     Find your easy-peasy strawberry recipes here.
                                                 </p>
@@ -31,7 +31,7 @@ const HomeRecipe = () => {
                                             <img src="https://images.unsplash.com/photo-1499889808931-317a0255c0e9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
                                             <div class="carousel-caption d-none d-md-block">
                                             <h5>Strawberry Recipes</h5>
-                                                <p>My Love for strawberries is immaculate and i have showered my heart into making my strawberry cook book. 
+                                                <p>My Love for strawberries is immaculate and i have poured my heart into making my strawberry cook book. 
                                                     <br />
                                                     Find your easy-peasy strawberry recipes here.
                                                 </p>
@@ -41,7 +41,7 @@ const HomeRecipe = () => {
                                             <img src="https://plus.unsplash.com/premium_photo-1691787288744-d586fffa3550?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="d-block w-100" alt="..." />
                                             <div class="carousel-caption d-none d-md-block">
                                             <h5>Strawberry Recipes</h5>
-                                                <p>My Love for strawberries is immaculate and i have showered my heart into making my strawberry cook book. 
+                                                <p>My Love for strawberries is immaculate and i have poured my heart into making my strawberry cook book. 
                                                     <br />
                                                     Find your easy-peasy strawberry recipes here.
                                                 </p>
